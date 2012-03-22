@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="e6fcd95d-49fa-46e1-be27-8c11b79756ce" Version="1.0.0.0" Publisher="CN=Suhail" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>Prototype_Blue_Marble</DisplayName>
+    <Description>Prototype_Blue_Marble</Description>
+    <PublisherDisplayName>Suhail</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="en-US" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Prototype_Blue_Marble" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Prototype_Blue_Marble" ForegroundText="light" BackgroundColor="#000000">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="images\splashscreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+  <Dependencies>
+    <PackageDependency Name="Microsoft.WinJS.0.6.Debug" MinVersion="0.6.8229.0" />
+  </Dependencies>
+</Package>

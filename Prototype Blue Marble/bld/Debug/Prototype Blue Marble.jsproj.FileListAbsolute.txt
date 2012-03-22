@@ -1,0 +1,13 @@
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bin\Debug\resources.pri
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bin\Debug\AppxManifest.xml
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bin\Debug\Prototype Blue Marble.build.appxrecipe
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\priconfig.xml
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\layout.resfiles
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\resources.resfiles
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\pri.resfiles
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\LanguageQualifiers.txt
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\ProjectArchitectures.txt
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\priconfig.xml.intermediate
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\layout.resfiles.intermediate
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\resources.resfiles.intermediate
+C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bld\Debug\pri.resfiles.intermediate

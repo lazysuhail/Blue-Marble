@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SK-HOME-WIN8</Machine>
+    <WindowsUser>Suhail</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>6165023B984E0D1198DD5D992401D1E402E31881224D781236F4710AFB4A53B1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e6fcd95d-49fa-46e1-be27-8c11b79756ce_1.0.0.0_neutral__ggdc1m2jzq35j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e6fcd95d-49fa-46e1-be27-8c11b79756ce_ggdc1m2jzq35j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e6fcd95d-49fa-46e1-be27-8c11b79756ce</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Suhail</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-18T23:06:08.382</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-03-18T22:17:44.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-03-18T23:18:59.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\js\foursquare.js">
+      <PackagePath>js\foursquare.js</PackagePath>
+      <Modified>2012-03-18T23:17:24.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\js\common.js">
+      <PackagePath>js\common.js</PackagePath>
+      <Modified>2012-03-18T22:13:41.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Suhail\Documents\Visual Studio 11\Projects\Prototype Blue Marble\Prototype Blue Marble\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-18T23:06:08.288</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
